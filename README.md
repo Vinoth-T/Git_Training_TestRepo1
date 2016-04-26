@@ -1,2 +1,1 @@
-# Git_Training_TestRepo1
-Test Reposiroty for GIT Training
+# PROJECT CTS-PUPPET-Day2
